@@ -1,0 +1,29 @@
+/* CSS Document */
+body {
+	padding: 1%;
+}
+
+h1 {
+	padding: 0%;
+	padding-top: 2%;
+	color: #005700;
+}
+
+.title {
+    text-align: center;        /* 中央寄せ */
+    background-color: #DDFFDE;    /* 背景色指定 */
+    height: 100px;              /* 高さ指定 */
+    padding: 0%;
+}
+ 
+.centering_item {
+    background-color: #FFEB3B;  /* 背景色指定 */
+}
+
+.underTitle {
+	padding-top: 2%;
+}
+
+.space {
+	padding: 2%;
+}
